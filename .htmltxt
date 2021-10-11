@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<head/>
+    <body>
+      <nav>
+      <h1>Teddy Mirongo</h1>
+      <ul class="navigation">
+        <li><a href="#about" class="nav-link">Home</a></li>
+        <li><a href="#skills" class="nav-link">Services</a></li>
+        <li><a href="#projects" class="nav-link">Products</a></li>
+        <li><a href="#contact" class="nav-link">About</a></li>
+      </ul>
+      <button class="burger-menu" id="burger-menu">
+        <ion-icon class="bars" name="menu-outline"></ion-icon>
+      </button>
+</nav>
+<hr>
+      <img src="Teddy.jpg" alt="Teddy"
+      <P1>
+        Hi My name is Teddy Mirongo. IT specialist,Helping people and organization come with realworlds solutions.<br>
+      <p>TOP SKILLS<p/>
+         
+        <ul>
+      <li>Computer Programming</li>
+  <li>System Design</li>
+  <li>Web Programming</li>
+  <li>Vehicle Servicing</li>
+</ul> 
+  <hr>
+        <p1/>
+      <div class="socials">
+      <a href="#" target="_blank"
+        ><img
+          src="assets/icons/icons8-twitter-circled.gif"
+          alt="Twitter"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="#" target="_blank"
+        ><img
+          src="assets/icons/icons8-instagram.gif"
+          alt="Instagram"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="#" target="_blank"
+        ><img
+          src="assets/icons/icons8-linkedin-circled.gif"
+          alt="Linkedin"
+          loading="lazy"
+          class="socicon"
+      /></a>
+      <a href="#" target="_blank"
+        ><img src="assets/icons/icons8-github.gif" alt="Github" class="socicon"
+      /></a>
+    <body/>
